@@ -2,11 +2,11 @@
 
 ## 목차
 
-  * Git이란?
-  * Git 기본 명령어
-  * 브랜치와 병합
-  * GitHub 사용
-  * 추가 리소스
+  * [Git이란?](#git이란)
+  * [Git 기본 명령어](#git-기본-명령어)
+  * [브랜치와 병합](#git-기초)
+  * [GitHub 사용](#github-사용)
+  * [추가 리소스](#추가-리소스)
 
 ## Git이란?
 
@@ -46,7 +46,7 @@ GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 다음 단계를 �
 git remote add origin <GitHub 저장소 URL>
 git push origin main
 ```
-[대신사진](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![대신사진](/images/Git-Logo-2Color.png)
 
 ## 추가 리소스
 
